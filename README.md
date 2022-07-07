@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Soumik4402" alt="tomkaX" />
+<img src="https://komarev.com/ghpvc/?username=Soumik4402" alt="Soumik" />
 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
  
