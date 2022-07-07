@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
 
 
 <h1 align="center">Hi 👋, I'm Soumik Mukherjee </h1>
@@ -33,8 +31,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
  
  </p>
-
-- 💬 Ask me about " SOUMIK "
+-Instagram Id =soumikmukherjee4402
 
 - 📫 How to reach me *onlinekazama19@gmail.com*
 
