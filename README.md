@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Soumik4402" alt="Soumik" />
 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
+  
  
  </p>
--Instagram Id =soumikmukherjee4402
+-Instagram Id =soumik.jee
 
 - 📫 How to reach me *onlinekazama19@gmail.com*
 
