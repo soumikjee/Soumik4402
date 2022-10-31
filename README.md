@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  </p>
 -Instagram Id =soumik.jee
 
-- 📫 How to reach me *onlinekazama19@gmail.com*
+- 📫 How to reach me *onlinekazama19@gmail.com* 
 
 
 
